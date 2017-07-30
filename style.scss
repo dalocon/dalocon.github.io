@@ -287,3 +287,14 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/******************/
+/* CAMBIOS ESTILO */
+/******************/
+
+.postImage {
+    float: left;
+    height: 8em;
+    width: 8em;
+    padding: 1em;
+}
