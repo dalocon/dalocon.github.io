@@ -324,3 +324,9 @@ a:hover, a:active {
 .wrapper-masthead {
     background-color: #eeeeee;
 }
+
+a.read-more:hover {
+    border: 1px solid #ffa500;
+    color: #ffa500;
+    background-color: #dcdada;
+}
