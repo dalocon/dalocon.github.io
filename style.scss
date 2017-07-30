@@ -303,3 +303,16 @@ footer {
     height: 100%;
     width: 100%;
 }
+
+.post .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+    border: 1px solid #ffb100;
+    padding: 0.5em;
+    color: #ffb100;
+    background-color: #eeeeee;
+}
+
+h1 a {
+    color: #ffb100;
+}
