@@ -335,3 +335,13 @@ a.read-more:hover {
     max-width: 100%;
     padding: 0em 2em 0em 2em;
 }
+nav a {
+  color: grey;
+}
+
+@media screen and (max-width: 640px){
+  nav a {
+      color: grey;
+  }
+}
+
